@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() { 
     const envelope = document.getElementById('envelope');
     const letter = document.getElementById('letter');
     const yesBtn = document.getElementById('yes');
